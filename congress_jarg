@@ -1,0 +1,15 @@
+Congress Issue Codes:
+  PN = Presidential Nomination
+  S = Senate
+  SJ Res = Senate Joint Resolution
+  HR = House of Representatives
+  
+  Partisanship prejudice inj favor of a particular bias
+  
+  In order to determine which party engaes more in partisan politics more, I first need to define what is considered a partisan issue.
+  In this experiment I will describe a partisan vote as any vote were 2/3 of the party cast the same vote for a particular bill.
+  For Example: Senate = 50 Democrats + 50 Republicans. Partisan issue = 30 Democrats cast the same vote AND 30 Republicans cast the same vote.
+  
+  Paramaters:
+    I will examine bills voted on in the senate since 1989. This in formation is accessed via
+    https://www.senate.gov/legislative/votes_new.htm the official website for the united states senate
