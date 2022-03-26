@@ -4,6 +4,8 @@ Congress Issue Codes:
   SJ Res = Senate Joint Resolution
   HR = House of Representatives
   
+  Senate Resolution: Collective sentiment of the senate. These are not laws.
+  
   Partisanship prejudice inj favor of a particular bias
   
   In order to determine which party engaes more in partisan politics more, I first need to define what is considered a partisan issue.
@@ -13,3 +15,5 @@ Congress Issue Codes:
   Paramaters:
     I will examine bills voted on in the senate since 1989. This in formation is accessed via
     https://www.senate.gov/legislative/votes_new.htm the official website for the united states senate
+    
+    I will scrape all the data from this cite and store 
